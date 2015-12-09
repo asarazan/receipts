@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Receipts</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login">Log In</string>
 </resources>

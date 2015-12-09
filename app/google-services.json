@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_id": "receipts-1154",
+    "project_number": "918453345648",
+    "name": "Receipts"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918453345648:android:280739460952ddba",
+        "client_id": "android:net.sarazan.receipts",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "net.sarazan.receipts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918453345648-amscth4tsrshbnscrrkd819q3d9vvbfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.sarazan.receipts",
+            "certificate_hash": "B1F164BA9E10CE725636E433D76BC957347456AC"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-71233119-1"
+          }
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
